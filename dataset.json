@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Tallahassee, Florida with a population of over 196k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Tallahassee, Florida, US",
+  "export_job_id": "115082b9-c69e-4ad5-b091-69090ec98476",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 326659,
+  "location_name": "Tallahassee",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-tallahassee-florida-us-sample-326659",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/326659/beamstation_326659_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 82,
+  "sample_sha256": "c67814321e8390c30a8a3e3d619dfdc2156a0c46862f9dcfa680cb55638eeb69",
+  "sample_size_bytes": 315289,
+  "total_records": 821,
+  "updated_at": "2026-04-09T13:40:53.612672+00:00"
+}
