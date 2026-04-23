@@ -1,12 +1,12 @@
 {
-  "export_job_id": "37d810be-2408-46ae-9c17-4ca01c625918",
+  "export_job_id": "407dcc26-3776-4685-b562-3bcf441e1d28",
   "id_short": 326659,
-  "published_at": "2026-04-19T19:30:41Z",
+  "published_at": "2026-04-23T19:35:45Z",
   "repo_name": "all-restaurants-in-tallahassee-florida-us-sample-326659",
   "sample_asset_name": "beamstation_326659_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/326659/beamstation_326659_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 76,
-  "sample_sha256": "06444f489b766552c9da3d387d0e4c94a9759dbcbdeb83038176abc787255f44",
-  "sample_size_bytes": 289785,
-  "total_records": 769
+  "sample_records": 55,
+  "sample_sha256": "a552e9575d89998d8db53b6beac59527b53a05b2b899b0ca346c70e4f67b9d6e",
+  "sample_size_bytes": 226407,
+  "total_records": 553
 }
